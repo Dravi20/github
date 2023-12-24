@@ -1,2 +1,3 @@
-# github
+#!/bin/sh
+
 echo : "hello world"
